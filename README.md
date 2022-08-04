@@ -1,7 +1,7 @@
 # Testing Vite for future projects
 
 <p align="center">
-  <a href="https://vitejs.dev/guide" target="blank">Nest</a> Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
+  <a href="https://vitejs.dev/guide" target="blank">Vite</a> is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 </p>
 
 <p align="center">
