@@ -1,7 +1,7 @@
-# Testando o Vite para projetos futuros
+# Testing Vite for future projects
 
 <p align="center">
-  <a href="https://github.com/nestjs/nest" target="blank">Nest</a> (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
+  <a href="https://vitejs.dev/guide" target="blank">Nest</a> Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 </p>
 
 <p align="center">
