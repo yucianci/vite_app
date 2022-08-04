@@ -8,7 +8,7 @@
   <a href="https://vitejs.dev/" target="blank"><img src="https://vitejs.dev/logo-with-shadow.png" width="200" alt="Vite Logo" /></a>
 </p>
 
-## Instalação das dependências:
+## Install dependencies:
 
 ```bash
 $ npm i
@@ -16,7 +16,7 @@ $ npm i
 $ yarn
 ```
 
-## Iniciar a aplicação:
+## Start application:
 
 ```bash
 $ npm run dev
