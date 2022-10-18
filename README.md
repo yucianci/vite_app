@@ -1,4 +1,4 @@
-# Testing Vite for future projects
+# My default project with React + TS + VITE 
 
 <p align="center">
   <a href="https://vitejs.dev/guide" target="blank">Vite</a> is a build tool that aims to provide a faster and leaner development experience for modern web projects.
